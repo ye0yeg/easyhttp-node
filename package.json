@@ -1,6 +1,6 @@
 {
   "name": "@ye0yeg/ezhttp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is easy-way to use http request",
   "main": "ezhttp.js",
   "scripts": {
