@@ -14,5 +14,7 @@
   ],
   "author": "chenshaoye",
   "license": "ISC",
-  "dependencies":{}
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
