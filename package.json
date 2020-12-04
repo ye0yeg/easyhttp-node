@@ -1,0 +1,17 @@
+{
+  "name": "ezhttp",
+  "version": "1.0.1",
+  "description": "This is easy-way to use http request",
+  "main": "ezhttp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "get",
+    "post",
+    "easy"
+  ],
+  "author": "chenshaoye",
+  "license": "ISC"
+}
