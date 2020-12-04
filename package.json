@@ -1,5 +1,5 @@
 {
-  "name": "ezhttp",
+  "name": "@ye0yeg/ezhttp",
   "version": "1.0.1",
   "description": "This is easy-way to use http request",
   "main": "ezhttp.js",
@@ -13,5 +13,6 @@
     "easy"
   ],
   "author": "chenshaoye",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies":{}
 }
